@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gunicorn
+
+pydantic-settings
+
+fastapi-cache2[redis]
+
+passlib
+python-jose
